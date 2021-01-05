@@ -10,6 +10,8 @@
   - [LINK]()
   
 ### [71039] 컴퓨터알고리즘
+- Assignements
+  - [LINK]()
 - Term Project
   - 불량 동전 찾기
   - [LINK](https://github.com/seungri0826/2020_3_1_AL)
