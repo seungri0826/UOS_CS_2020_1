@@ -1,0 +1,11 @@
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\bin\Debug\netcoreapp3.1\OS_Project_2_1.exe
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\bin\Debug\netcoreapp3.1\OS_Project_2_1.deps.json
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\bin\Debug\netcoreapp3.1\OS_Project_2_1.runtimeconfig.json
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\bin\Debug\netcoreapp3.1\OS_Project_2_1.runtimeconfig.dev.json
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\bin\Debug\netcoreapp3.1\OS_Project_2_1.dll
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\bin\Debug\netcoreapp3.1\OS_Project_2_1.pdb
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\obj\Debug\netcoreapp3.1\OS_Project_2_1.csprojAssemblyReference.cache
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\obj\Debug\netcoreapp3.1\OS_Project_2_1.AssemblyInfoInputs.cache
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\obj\Debug\netcoreapp3.1\OS_Project_2_1.AssemblyInfo.cs
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\obj\Debug\netcoreapp3.1\OS_Project_2_1.dll
+D:\학교\2020_1학기\운영체제\과제\2차\OS_Project_2_1\obj\Debug\netcoreapp3.1\OS_Project_2_1.pdb
